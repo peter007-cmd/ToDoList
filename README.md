@@ -1,6 +1,5 @@
 # to_do_list
-
-A new Flutter project.
+This is my first flutter project,it has a very simple design,and further modifications will made in the future
 
 ## Getting Started
 
